@@ -14,4 +14,5 @@ var simpleToDoApp = angular.module('simpleToDoApp', [
   'underscore'
   ]);
 
-simpleToDoApp.constant('AppConfig', {API_HOST: 'http://192.168.178.21:3000/'});
+//simpleToDoApp.constant('AppConfig', {API_HOST: 'http://192.168.178.21:3000/'});
+simpleToDoApp.constant('AppConfig', {API_HOST: 'http://moellenbeck-t.tunnlr.com/'});
