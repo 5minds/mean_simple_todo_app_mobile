@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.simpletodo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Simple ToDo</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="martin.moellenbeck@5minds.de" href="http://www.5minds.de">
+        Martin Moellenbeck
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
