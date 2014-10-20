@@ -1,3 +1,4 @@
 www/components/**
 platforms/ios
+platforms/browser
 platforms/android
