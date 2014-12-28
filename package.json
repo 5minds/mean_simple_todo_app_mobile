@@ -1,0 +1,29 @@
+{
+  "name": "todo_mobile_app",
+  "version": "1.0.0",
+  "description": "A simple todo mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moellenbeck/mean_simple_todo_app_mobile.git"
+  },
+  "keywords": [
+    "mean",
+    "corodva",
+    "ios",
+    "android",
+    "phonegap"
+  ],
+  "author": "Martin Moellenbeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moellenbeck/mean_simple_todo_app_mobile/issues"
+  },
+  "homepage": "https://github.com/moellenbeck/mean_simple_todo_app_mobile",
+  "devDependencies": {
+    "cordova": "^4.1.2"
+  }
+}

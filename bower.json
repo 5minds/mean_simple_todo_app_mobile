@@ -21,6 +21,7 @@
     "angular-resource": "~1.2.22",
     "underscore": "~1.6.0",
     "angular-underscore-module": "*",
-    "angular-touch": "~1.2.23"
+    "angular-touch": "~1.2.23",
+    "socket.io-client": "~1.0.6"
   }
 }
